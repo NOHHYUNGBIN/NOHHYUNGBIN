@@ -31,16 +31,19 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue-34495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Vuex-35495E?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Saga-999999?style=flat&logo=redux-saga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux_Saga-999999?style=flat&logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=flat&logo=tailwind-css&logoColor=38B2AC"/>
   <img src="https://img.shields.io/badge/TypeScript-1E1E1E?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Java-2c3e50?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-222222?style=flat&logo=spring-boot&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/MySQL-1A1A1A?style=flat&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
 ## 💬 한마디
 
-> "읽기 쉬운 코드는 결국 좋은 코드입니다."* 
+> "읽기 쉬운 코드는 결국 좋은 코드입니다."<br/>
 > 클린 코드를 좋아하는 개발자 노형빈
