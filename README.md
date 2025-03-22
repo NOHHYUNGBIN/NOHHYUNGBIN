@@ -4,22 +4,23 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:nohyungbin.dev@gmail.com">
+  <a href="mailto:shgudqlsz@naver.com">
     <img src="https://img.shields.io/badge/이메일-문의하기-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/nohyungbin">
-    <img src="https://img.shields.io/badge/GitHub-노형빈-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://instagram.com/nohhyungbin" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@nohhyungbin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## 🧾 소개
 
-- 💻 6년 차 웹 개발자입니다  
-- 🎯 **사용자 경험과 유지보수성**을 고려한 프론트엔드 개발을 지향합니다  
-- ⚙️ React, Vue, Next, Java, Spring Boot 등 다양한 기술에 익숙합니다  
-- ☕ 끊임없이 분석하는것을 좋아합니다.
+- 💻 6년 차 웹 개발자입니다.  
+- 🎯 사용자 경험과 유지보수성을 고려한 개발을 지향합니다.  
+- ⚙️ React, Vue, Next, Java, Spring Boot 등 다양한 기술에 익숙합니다.  
+- ☕ 끊임없이 분석하고, 분석한것을 적용하는데 재미를 느끼고 있습니다.
+- 🌱 현재는 SQLP 자격증을 공부하며 Vue3를 깊게 공부하고 있습니다.
 
 ---
 
