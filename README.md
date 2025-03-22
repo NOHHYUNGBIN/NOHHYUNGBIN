@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋 노형빈입니다</h1>
-<h3 align="center">프론트엔드 개발자 | 클린 코드 지향 | 꾸준히 성장하는 개발자</h3>
+<h1 align="center">안녕하세요. 노형빈입니다</h1>
+<h3 align="center">풀스택 개발자 | 클린 코드 지향 | 꾸준히 성장하는 개발자</h3>
 
 <br/>
 
@@ -18,9 +18,8 @@
 
 - 💻 6년 차 웹 개발자입니다  
 - 🎯 **사용자 경험과 유지보수성**을 고려한 프론트엔드 개발을 지향합니다  
-- ⚙️ React, Vue, Java, Spring Boot 등 다양한 기술에 익숙합니다  
-- 🌱 현재는 **Vue3, TypeScript, 클린 아키텍처**를 공부하고 있어요  
-- ☕ 커피와 함께 코딩하는 걸 좋아합니다 :)
+- ⚙️ React, Vue, Next, Java, Spring Boot 등 다양한 기술에 익숙합니다  
+- ☕ 끊임없이 분석하는것을 좋아합니다.
 
 ---
 
@@ -37,16 +36,7 @@
 
 ---
 
-## 📊 GitHub 활동
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nohyungbin&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohyungbin&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
----
-
 ## 💬 한마디
 
-> **"읽기 쉬운 코드는 결국 좋은 코드입니다."**  
-> — 클린 코드를 좋아하는 개발자 노형빈
+> "읽기 쉬운 코드는 결국 좋은 코드입니다."* 
+> 클린 코드를 좋아하는 개발자 노형빈
